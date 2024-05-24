@@ -1,2 +1,2 @@
 # Display the Output
-print("Neue Python Datei")
+print("Python says Hi to GitHub")
